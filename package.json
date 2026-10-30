@@ -1,0 +1,26 @@
+
+{
+  "name": "annoying-cookie-consent",
+  "version": "1.0.0",
+  "private": true,
+  "description": "An interactive modal popup built while learning JavaScript DOM manipulation, event handling, and form validation.",
+  "type": "module",
+  "scripts": {
+    "start": "vite",
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "keywords": [
+    "javascript",
+    "html",
+    "css",
+    "dom-manipulation",
+    "learning-project"
+  ],
+  "author": "MYSTICOP221",
+  "license": "MIT",
+  "devDependencies": {
+    "vite": "^7.0.0"
+  }
+}
